@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-<img class="Learn java script" src="../images/keep-calm-and-learn-javascript.jpg>
+<img class="Learn java script" src="../images/keep-calm-and-learn-javascript.jpg">
 
   As someone coming from C and C++, javascript is a language that is interesting to use. You don’t have to worry about variable data types, and this makes it very easy to write up a simple but working code. However, I can say that I don’t really enjoy not having to deal with data types, simply because they sometimes helped keep track of what could go where by checking type. If you were completely new to programming however, it would be a very easy language to start off with as there is very little you actually need to know aside from how to actually code javascript. Also, the absence of data types seems to lend itself to the fact that the language as a whole can be written fairly quickly when compared to other languages. Without having to worry about types, you simply give inputs and outputs of variables and functions to variables and they are able to hold them.
 
