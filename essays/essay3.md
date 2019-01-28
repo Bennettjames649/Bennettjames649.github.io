@@ -1,13 +1,12 @@
 ---
 layout: essay
 type: essay
-title: Due Diligence
+title: Goals and Aspirations
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-23
 labels:
-  - Questions
-  - Answers
-  - StackOverflow
+  - Goals
+  - Aspirations
 ---
 
 <img class="ui medium left floated image" src="../images/rtfm.png">
