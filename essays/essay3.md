@@ -9,7 +9,7 @@ labels:
   - Aspirations
 ---
 
-<img class="ui medium left floated image" src="../images/rtfm.png">
+<img class="ui medium left floated image" src="../images/group.jpg">
 
 Video games have always been directly dependent on computer science and software engineering. Not only do they require a working system to play, but they also push the boundaries of computer science forward. I want to learn how to use software engineering to create and understand how some of my favorite games work. From why a particular data type was used, to understanding the implementation of collision, video games are rich ground for exploring computer science in its entirety.
 
