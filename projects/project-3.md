@@ -14,48 +14,8 @@ summary: A text adventure game I developed for ICS 313.
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+Currently my most important ongoing project is getting my B.A. in Information and Computer Sciences from the University of Hawaii at Manoa. After switching from the biochemistry program I had my work cut out to try and catch up in the ICS program. Having to start at the bottom again was disheartening as I had to work my way back up a degree path. That being said, I have always been fascinated by computers, and this has helped me in progressing my studies.
 
-To give you a flavor of the game, here is an excerpt from one run:
-
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
-
+Through the ICS program I have much about computer science from abstract data types, to running C and Java code in the same program. The full range from theoretical to hands on has been covered. Everything to do with coding is not the limit of the scope of the degree. The analysis of algorithms as well as the mathematical understanding of the theories is equally important.
+  
+Each class I take further prepares me to get a job after I get my degree with full confidence that I will be an expert in my field. While being a Jagex developer is a childhood dream of mine, I will need significantly more training before I will be ready to do something so intensive. Not only finishing my degree, but also just accumulating some working experience to actually know how to approach different projects. 
