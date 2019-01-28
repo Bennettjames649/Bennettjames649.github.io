@@ -12,7 +12,8 @@ labels:
 summary: Completed courses of photography projects
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/camera.jpeg">
+<img class="ui medium right floated rounded image" src="../images/film.jpg">
 
 After a few semesters of only sciences, I chose to take a photography course from the University of Hawaii. Through the course I learned how cameras work, camera history, and how to use the camera as a tool to produce art and other things. We used film cameras and developed our own film in a dark room. The class itself did not require much from you day to day, but would have aggressive deadlines for multiple prints to be ready to show for a grade. If you didn’t have enough prints your grade would suffer.
 
