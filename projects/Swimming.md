@@ -12,10 +12,8 @@ summary: Completed 14 years of competitive swimming
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/swimming dive.jpg">
+  <img class="ui image" src="../images/james swim.jpg">
 </div>
 
 
