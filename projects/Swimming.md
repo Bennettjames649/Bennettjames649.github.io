@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/mens team.jpg
 title: Swimming
 permalink: projects/Swimming
 # All dates must be YYYY-MM-DD format!
