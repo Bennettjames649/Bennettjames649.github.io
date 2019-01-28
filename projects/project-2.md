@@ -2,24 +2,21 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
+title: Photography
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
 date: 2015-12-15
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Photography
+
+summary: Completed courses of photography projects
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+After a few semesters of only sciences, I chose to take a photography course from the University of Hawaii. Through the course I learned how cameras work, camera history, and how to use the camera as a tool to produce art and other things. We used film cameras and developed our own film in a dark room. The class itself did not require much from you day to day, but would have aggressive deadlines for multiple prints to be ready to show for a grade. If you didn’t have enough prints your grade would suffer.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+The exercise of creating multiple art pieces on a deadline came with significant challenges. First, each finished print was the culmination of hours of work in the dark room to print the photo so well. Second the volume of required prints required you to work efficiently. For the entire span you were expected to have eight or more quality prints done every two weeks. Each individual photo takes hours to get right, and we would be showing them to our teacher and classmates when it was due so it’s incredibly easy to see who put in effort with their prints and who just threw them together. 
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+This experience helped teach me how to accomplish multiple, quality, finished products on a deadline. This required significant time management and planning skills as the photo projects were in addition to my ongoing ICS degree.
+
