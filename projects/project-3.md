@@ -1,18 +1,18 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/diploma.jpg
 title: Cotton
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
 date: 2014-04-12
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Education
+  - Skills
+summary: I am getting a BA in Information and Computer Sciences at UH Manoa
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+
 
 Currently my most important ongoing project is getting my B.A. in Information and Computer Sciences from the University of Hawaii at Manoa. After switching from the biochemistry program I had my work cut out to try and catch up in the ICS program. Having to start at the bottom again was disheartening as I had to work my way back up a degree path. That being said, I have always been fascinated by computers, and this has helped me in progressing my studies.
 
