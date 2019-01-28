@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/diploma.jpg
-title: Cotton
+title: ICS Degree
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
 date: 2014-04-12
