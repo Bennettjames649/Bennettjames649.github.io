@@ -12,7 +12,7 @@ labels:
 summary: I am getting a BA in Information and Computer Sciences at UH Manoa
 ---
 
-<img class="ui medium right floated rounded image" src="../images/UHM.jpg">
+<img class="ui medium right floated rounded image" src="../images/UHM.png">
 
 Currently my most important ongoing project is getting my B.A. in Information and Computer Sciences from the University of Hawaii at Manoa. After switching from the biochemistry program I had my work cut out to try and catch up in the ICS program. Having to start at the bottom again was disheartening as I had to work my way back up a degree path. That being said, I have always been fascinated by computers, and this has helped me in progressing my studies.
 
