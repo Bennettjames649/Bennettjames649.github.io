@@ -13,9 +13,9 @@ summary: Completed 14 years of competitive swimming
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/swimming dive.jpg">
-  <img class="ui image" src="../images/james swim.jpg">
 </div>
 
+<img class="ui medium right floated rounded image" src="../images/james swim.jpg">
 
 My parents always believed that I should be comfortable in and around water, as such they taught me how to swim, and eventually I started swimming for a club team in my home town. While training with the club team I would achieve many milestones including competing in Florida for the 18 and under National Championships. I swam the 100 butterfly, 200 butterfly, as well as the 50, 100, and sometimes 200 freestyle. I ended up swimming competitively for 14 years, eventually earning a spot on the University of Hawaii Swim and Dive program. 
 
