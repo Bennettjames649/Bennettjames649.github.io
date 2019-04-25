@@ -10,14 +10,11 @@ labels:
   - Design Patterns
 ---
 
-<b>Common Problems</b>
- <p>When designing a program there are often problems that require the same set of steps to be called in a certain sequence. For example, a calculator configured with order of operations will go through a predetermined sequence of checks before giving you your final result. In this example the calculator is solving a math problem, but rather than simply doing exactly what the operators say to do in order, it has its own internal logic for the situation. Such function was designed and implemented specifically for this particular function of doing math with order of operations. 
- </p>
- <b>Common Solutions</b>
- <p>
+Common Problems
+ When designing a program there are often problems that require the same set of steps to be called in a certain sequence. For example, a calculator configured with order of operations will go through a predetermined sequence of checks before giving you your final result. In this example the calculator is solving a math problem, but rather than simply doing exactly what the operators say to do in order, it has its own internal logic for the situation. Such function was designed and implemented specifically for this particular function of doing math with order of operations. 
+ 
+ Common Solutions
  By creating a general solution a specific problem, we allow our code to be reusable in multiple different aspects. This general design process is a design pattern waiting to be implemented. Going back to our calculator example, there are a few things we must ask ourselves. First, what problem are we solving? Second, how do you intend to solve this problem? And lastly, are there any repercussions for using this particular implementation? With the calculator, our problem is solving equations using order of operations, our intended solution is to evaluate the equation in the order given by order of operations, and our tradeoff is that this function will only work on math problems. 
- </p>
- <b>Use Cases</b>
- <p>
+ 
+ Use Cases
  While this gives a general idea of how to solve our problem, it does not ultimately layout exactly how we will reach our solution. Additionally, depending on the problem, there may be more to consider about our function. Different situations require different solutions, and no one single design pattern is going to completely cover all possible scenarios, they key is coming up with a custom design pattern that can be generalized in its usage. For example, When design a bank database system, I made sure that all of my basic functions that were going to be used a significant amount were in standalone functions. This simple decision dramatically reduced the amount of copy pasted code that was needed. Rather than recoding the function for every use I simply called the function. While this is a small example of a component part of design pattern, it is almost a smaller instance of what the larger whole of the design pattern was, pre-laid plan on handling issues within the system.
- </p>
