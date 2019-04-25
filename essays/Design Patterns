@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: Where are the Data Types
+title: Design Patterns
 # All dates must be YYYY-MM-DD format!
-date: 2019-01-16
+date: 2019-04-24
 labels:
   - Software Engineering
   - Learning
