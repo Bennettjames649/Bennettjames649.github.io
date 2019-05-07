@@ -26,6 +26,7 @@ summary: Manoa Munchies, A Final Project for Software Engineering
  </p>
  <p>
  <img class="ui large rounded image" src="../images/Admin.png">
+  <p></p>
 <img class="ui large rounded image" src="../images/user.png">
  </p>
  <p></p>
