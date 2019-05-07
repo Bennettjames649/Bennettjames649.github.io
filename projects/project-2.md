@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/welcome.jpg
+image: images/welcome.png
 title: Manoa Munchies
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
