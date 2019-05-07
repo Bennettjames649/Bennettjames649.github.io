@@ -28,6 +28,7 @@ summary: Manoa Munchies, A Final Project for Software Engineering
  <img class="ui medium right floated rounded image" src="../images/Admin.png">
 <img class="ui medium left floated rounded image" src="../images/user.png">
  </p>
+ <p></p>
  <b>What was learned</b>
  <p>
   Through this month long project my group and I learned valuable lessons for designing and deploying software that is being collaborativly worked on. One of the first things we learned was to meet early, and to meet often. While our first deployment should have had the least hiccups, given that we had the simplest code in that moment. Despite this, we spent as much time on this first deployment as we did on the last deployment. Also, we learned to start early and commit often to our SCCS. This change made merging and combining our code much simpler. Ultimatly, being able to work on a project of this scale, and completeing it in a monthish was a great expierence for developing software engineering skills.
