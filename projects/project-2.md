@@ -25,8 +25,8 @@ summary: Manoa Munchies, A Final Project for Software Engineering
   Much of my work on the project was spent building pages to effect changes on several of the databases depending on who is signed in. Specifically I was responsible for handling admin pages to delete users, vendors, and foods. Additionally, I was responsible for the vendors ability to add food items, as well as the pages required for editing the vendors stores they already control. Lastyly, the pages requiring information from the databases were designed in such a way so as to still work even if no information was supplied.
  </p>
  <p>
- <img class="ui medium right floated rounded image" src="../images/Admin.png">
-<img class="ui medium left floated rounded image" src="../images/user.png">
+ <img class="ui medium rounded image" src="../images/Admin.png">
+<img class="ui medium rounded image" src="../images/user.png">
  </p>
  <p></p>
  <b>What was learned</b>
