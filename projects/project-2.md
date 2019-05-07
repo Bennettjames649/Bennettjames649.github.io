@@ -1,23 +1,33 @@
 ---
 layout: project
 type: project
-image: images/camera.jpeg
-title: Photography
+image: images/welcome.jpg
+title: Manoa Munchies
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
 date: 2015-12-15
 labels:
-  - Photography
+  - App Development
+  - JavaScript
+  - Meteor
 
-summary: Completed courses of photography projects
+summary: Manoa Munchies, A Final Project for Software Engineering
 ---
 
-<img class="ui medium right floated rounded image" src="../images/camera.jpeg">
-<img class="ui medium right floated rounded image" src="../images/film.jpg">
+<img class="ui image" src="../images/welcome.png">
+<img class="ui medium right floated rounded image" src="../images/Admin.png">
+<img class="ui medium right floated rounded image" src="../images/user.png">
+<b>What is Manoa Munchies</b>
+<p>
+  In my ICS 314 course our final project was to build a web app using various languages and frameworks that were taught throughout the course. My group chose to build an app which we would aggregate food options from around campus and provide the user the ability to see what is available on campus using preferences that they provide. Users are broken down into three categories, vendor, customer, and admin. Each of these three roles had its own limitations set on what could be displayed, as well as what could be available to the user. The system uses multiple mongo databases to hold and record information that pertinent to the user and their food options on campus and display them in a dedicated page where they could see info about each item.
+</p>
 
-After a few semesters of only sciences, I chose to take a photography course from the University of Hawaii. Through the course I learned how cameras work, camera history, and how to use the camera as a tool to produce art and other things. We used film cameras and developed our own film in a dark room. The class itself did not require much from you day to day, but would have aggressive deadlines for multiple prints to be ready to show for a grade. If you didn’t have enough prints your grade would suffer.
-
-The exercise of creating multiple art pieces on a deadline came with significant challenges. First, each finished print was the culmination of hours of work in the dark room to print the photo so well. Second the volume of required prints required you to work efficiently. For the entire span you were expected to have eight or more quality prints done every two weeks. Each individual photo takes hours to get right, and we would be showing them to our teacher and classmates when it was due so it’s incredibly easy to see who put in effort with their prints and who just threw them together. 
-
-This experience helped teach me how to accomplish multiple, quality, finished products on a deadline. This required significant time management and planning skills as the photo projects were in addition to my ongoing ICS degree.
-
+<b>My Responsibilities</b>
+<p>
+  Much of my work on the project was spent building pages to effect changes on several of the databases depending on who is signed in. Specifically I was responsible for handling admin pages to delete users, vendors, and foods. Additionally, I was responsible for the vendors ability to add food items, as well as the pages required for editing the vendors stores they already control. Lastyly, the pages requiring information from the databases were designed in such a way so as to still work even if no information was supplied.
+ </P>
+ 
+ <b>What was learned</b>
+ <p>
+  Through this month long project my group and I learned valuable lessons for designing and deploying software that is being collaborativly worked on. One of the first things we learned was to meet early, and to meet often. While our first deployment should have had the least hiccups, given that we had the simplest code in that moment. Despite this, we spent as much time on this first deployment as we did on the last deployment. Also, we learned to start early and commit often to our SCCS. This change made merging and combining our code much simpler. Ultimatly, being able to work on a project of this scale, and completeing it in a monthish was a great expierence for developing software engineering skills.
+ </p>
