@@ -58,11 +58,12 @@
       ]
     },
     {
-      "name": "OS",
-      "level": "",
+      "name": "Swimming",
+      "level": "D1 Collegeiate athlete",
       "keywords": [
-        "Unix"
-      ]
+        "FreeStyle",
+        "ButterFly",
+        "BackStroke"
     }
   ],
   "education": [
@@ -86,9 +87,20 @@
       "endDate": "2015-06-14",
       "summary": "Responsible for pool safety and clean up",
       "highlights": [
-        "Keeping the pool area safe and clean."
+        "Maintaining a safe, clean, and fun pool area."
       ]
-    }
+    },
+    {
+     "company": "UH Swim Camp",
+      "position": "coach",
+      "website": "",
+      "startDate": "2016-06-01",
+      "endDate": "2013-06-21",
+      "summary": "Teaching and helping campers learn and improve their swimming ability",
+      "highlights": [
+        "Teaching kids the foundations of competitive swimming ."
+      ]
+}
   ],
   "awards": [
     {
