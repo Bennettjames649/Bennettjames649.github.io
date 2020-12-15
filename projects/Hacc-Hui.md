@@ -13,7 +13,6 @@ labels:
 summary: I helped develope a website for the Hawaii Anual Code Competition
 ---
 
-<img class="ui medium left floated rounded image" src="../images/UHM.png">
 <p>
 	Hacc-Hui is a website designed to help simplify the team creation process for the Hawaii Annual Code Competition. Hacc-Hui allows users to not only create, but also join already created teams to participate in the HACC. Additionally, Hacc-Hui allows users to create a profile which can help potential team mates to learn more about each other as well as the skills that each individual can bring to the team for the project.</p>
 <img class="ui medium left floated image" src="../images/home.png">
