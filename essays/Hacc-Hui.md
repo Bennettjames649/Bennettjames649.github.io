@@ -1,6 +1,6 @@
 ---
-layout: Essay
-type: Essay
+layout: essay
+type: essay
 image: images/home.png
 title: Hacc-Hui
 permalink: projects/cotton
