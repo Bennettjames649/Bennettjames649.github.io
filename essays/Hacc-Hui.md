@@ -1,14 +1,13 @@
 ---
 layout: essay
 type: essay
-image: images/home.png
 title: Hacc-Hui
 # All dates must be YYYY-MM-DD format!
 date: 2020-12-15
 labels:
-  - Education
-  - Skills
-summary: I helped develope a website for the Hawaii Anual Code Competition
+  - Software Engineering
+  - Learning
+  - Design Patterns
 ---
 
 <p>
