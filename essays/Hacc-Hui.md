@@ -3,7 +3,6 @@ layout: essay
 type: essay
 image: images/home.png
 title: Hacc-Hui
-permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
 date: 2020-12-15
 labels:
