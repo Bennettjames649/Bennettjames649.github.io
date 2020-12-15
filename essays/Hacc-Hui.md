@@ -9,7 +9,6 @@ date: 2020-12-15
 labels:
   - Education
   - Skills
-  - Project
 summary: I helped develope a website for the Hawaii Anual Code Competition
 ---
 
